@@ -1,0 +1,347 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mainheader{
+    background-color: royalblue;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.mainheader p{
+    color: white;
+    padding-top: 10px;
+}
+
+.link{
+    border-spacing: 20px 0px;
+    padding-top: 10px;
+}
+ .but{
+    padding-top: 10px; 
+}
+.but button{
+   padding: 5px;
+   margin-bottom: 10px;
+   cursor: pointer;
+   color: rgba(0, 0, 0, 0.486);
+}
+
+    
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+}
+    
+
+.menu #menubar{
+     
+     background-color: white;
+     margin: 10px;
+     
+     
+}
+
+#menubar li a{
+    text-decoration: none;
+    color: black;
+    transition: 0.2s ease;
+    
+    
+}
+#menubar li{
+    display: inline-block;
+    padding: 10px;
+    
+    
+    
+}
+
+
+#menubar li a:hover{
+    background: royalblue ;
+    padding: 10px;
+    border-radius: 100px;
+    color: white;
+}
+#menubar li.home a{
+    background: royalblue ;
+    padding: 10px;
+    border-radius: 100px;
+    color: white;}
+
+.cover{
+    width: 1343px;
+    
+}
+.para{
+    font-style: oblique;
+    font-family: sans-serif;
+    height: auto;
+    font-size: 14px;
+    padding: 10px;
+    margin: 10px;
+    background-color: royalblue;
+    border-radius: 100px;
+    color: white;
+}
+.blue{
+    text-align: center;
+    color: royalblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    margin-top: 60px;
+    font-weight: bold;
+}
+.green{
+    color: green;
+    
+}
+
+.para1{
+    margin: 10px;
+     padding-left: 150px;
+    padding-right: 155px; 
+    font-size: 16px;
+    color:rgba(0, 0, 0, 0.623);
+    line-height: 1.6em;
+    
+    
+}
+
+
+.intro{
+    text-align: center;
+}
+.counting{
+    background-color: rgb(32, 81, 228);
+    height: 300px;
+    margin-top: 100px;
+    
+}
+
+
+.counter{
+    border-spacing: 152px 5px;
+    padding-top: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.iconimages{
+    padding-left: 50PX;
+    
+    
+    
+}
+tr.count{
+    font-size: 50px;
+    color: white;
+}
+.publicicon{
+    padding-left: 30px;
+    
+}
+
+
+.countdes{
+    
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    
+}
+.familydes{
+    
+    padding-left: 40px;
+}
+.dailydes{
+    padding-left: 90px;
+}
+.medicaldes{
+    padding-left: 60px;
+}
+.educationdes{
+    padding-left: 120px;
+}
+.monthly{
+    color: rgb(11, 241, 11);
+}
+
+.head2{
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+.doing{
+    padding-left: 100px;
+    border-spacing: 40px 20px;
+}
+
+
+.sadqa{
+    width: 250px;
+    height: 150px;
+    padding-left: 80px;
+    color:royalblue;
+   font-size: 20px;
+font-weight: bold;
+background-color: rgb(255, 255, 255);
+    box-shadow: 8px 8px 15px grey;
+}
+    
+
+.welfare{
+    width: 250px;
+    height: 150px;
+    padding-left: 120px;
+    color:royalblue;
+   font-size: 20px;
+font-weight: bold;
+background-color: rgb(255, 255, 255);
+    box-shadow: 8px 8px 15px grey;
+
+}
+.medical{
+    width: 250px;
+    height: 150px;
+    padding-left: 100px;
+    color:royalblue;
+   font-size: 20px;
+font-weight: bold;
+background-color: rgb(255, 255, 255);
+    box-shadow: 8px 8px 15px grey;
+}
+.dastarkhan{
+    width: 250px;
+    height: 150px;
+    padding-left: 80px;
+    color:royalblue;
+   font-size: 20px;
+font-weight: bold;
+background-color: rgb(255, 255, 255);
+    box-shadow: 8px 8px 15px grey;
+
+}
+.plant{
+    width: 250px;
+    height: 150px;
+    padding-left: 120px;
+    color:royalblue;
+   font-size: 20px;
+font-weight: bold;
+background-color: rgb(255, 255, 255);
+    box-shadow: 8px 8px 15px grey;
+}
+
+.education{
+    width: 250px;
+    height: 150px;
+    padding-left: 100px;
+    color:royalblue;
+   font-size: 20px;
+font-weight: bold;
+background-color: rgb(255, 255, 255);
+    box-shadow: 8px 8px 15px grey;
+}
+
+.head3{
+color: rgb(32, 75, 204);
+padding-left: 130px;
+padding-top: 80px;
+font-weight: bold;
+float: left;
+
+
+
+
+}
+
+    
+
+
+.misnpro{
+    padding-top: 20px;
+    border-spacing: 20px 10px;
+    
+    
+}
+
+
+
+.hepatitis, .housing , .it , .thar{
+    background-color: white;
+    box-shadow: 2px 2px 15px grey;
+    width: 350px;
+    height: 70px;
+}
+.hepa , .hou , .itimg , .tharimg{
+    padding-left: 30px;
+    padding-right: 30px;}
+
+
+
+
+
+  .para2{
+     border: 2px solid black; 
+    width: 300px;
+    height: 200px;
+    overflow: scroll;
+    color: black;
+    background-color: rgba(128, 128, 128, 0.349);
+} 
+.event{
+    
+float:left;
+color: rgb(32, 75, 204);
+padding-top: 80px;
+float: none;
+
+} 
+
+.gallery{
+    padding-left: 150px;
+    border-spacing: 5px;
+
+}
+
+.details{
+    width: auto;
+    background-color: rgba(0, 0, 0, 0.876);
+    height: 300px;
+    padding-left: 100px;
+    line-height: 0.8cm;
+    color: white;
+}
+.contactnum{
+    padding-top: 70px;
+    color: rgba(255, 255, 255, 0.493);
+}
+.useful{
+    padding-bottom: 150px;
+    padding-left: 50px;
+}
+.contactlink{
+    padding-left: 100px;
+    padding-bottom: 100px;
+}
+
+.copyright{
+    width: auto;
+    height: 20px;
+    background-color: royalblue;
+    text-align: center;
+    color: white;
+    padding-top: 5px;
+}
+    
+.bottop{
+    padding-left: 300px;
+}
+
+
+
